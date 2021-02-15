@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rajasekarshanmugam
+- 👀 I’m interested in latest tech and how we can add value to it
+- 💞️ I’m looking to collaborate on anything that could help others
+- 📫 Mail me on anything
