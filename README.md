@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rajasekarshanmugam
-- 👀 I’m interested in latest tech and how we can add value to it
-- 💞️ I’m looking to collaborate on anything that could help others
-- 📫 Mail me on anything
+- 👀 I’m interested in tech, learning each day and looking at ways to add value
+- 💞️ My goto tech has been - .NET, Typescript/Javascript, Python
+- 📫 Mail me if you have something in mind
